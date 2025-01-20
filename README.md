@@ -2,7 +2,7 @@
 ## Observation des Doublons Intellectuels Numériques
 ### Installation et Pré-requis
 
-Avant d'exécuter ODIN, assurez-vous d'avoir téléchargé l'exécutable correspondant à votre système. Vous n'avez pas besoin de Python si vous utilisez l'exécutable.
+Avant d'exécuter ODIN, assurez-vous d'avoir téléchargé l'exécutable ci-dessus. Vous n'avez pas besoin de Python si vous utilisez l'exécutable.
 
 ### Utilisation :
 
